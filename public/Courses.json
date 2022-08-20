@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Silbar Package",
+        "price": "500",
+        "description": "2 Hours Photography/2 Hours Videography, 30 Page, 10X10 Wedding Photo Album, Private Online Photo Gallery, Unlimited Coverage Locations, Unlimited Photos & Video Captured",
+        "img": "https://i.ibb.co/q7d5LKQ/service1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Gold Package",
+        "price": "800",
+        "description": "4 Hours Photography/4 Hours Videography, 30 Page, 10X10 Wedding Photo Album, Private Online Photo Gallery, Unlimited Coverage Locations, Unlimited Photos & Video Captured.",
+        "img": "https://i.ibb.co/QHncFbp/service2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dimond Package",
+        "price": "1000",
+        "description": "8 Hours Photography/8 Hours Videography, 30 Page, 10X10 Wedding Photo Album, Private Online Photo Gallery, Unlimited Coverage Locations, Unlimited Photos & Video Captured.",
+        "img": "https://i.ibb.co/GcxSbZf/service3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Dimond Package",
+        "price": "1000",
+        "description": "8 Hours Photography/8 Hours Videography, 30 Page, 10X10 Wedding Photo Album, Private Online Photo Gallery, Unlimited Coverage Locations, Unlimited Photos & Video Captured.",
+        "img": "https://i.ibb.co/GcxSbZf/service3.jpg"
+    }
+]
