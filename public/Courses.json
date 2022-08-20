@@ -1,30 +1,30 @@
 [
     {
         "id": 1,
-        "name": "Silbar Package",
-        "price": "500",
-        "description": "2 Hours Photography/2 Hours Videography, 30 Page, 10X10 Wedding Photo Album, Private Online Photo Gallery, Unlimited Coverage Locations, Unlimited Photos & Video Captured",
-        "img": "https://i.ibb.co/q7d5LKQ/service1.jpg"
+        "name": "Graphic Design Masterclass - Learn GREAT Design",
+        "price": "2500 Taka",
+        "description": "The Ultimate Graphic Design Course Which Covers Photoshop, Illustrator, InDesign,Design Theory, Branding and Logo Design",
+        "img": "https://i.ibb.co/5rCttw1/1.jpg"
     },
     {
         "id": 2,
-        "name": "Gold Package",
-        "price": "800",
-        "description": "4 Hours Photography/4 Hours Videography, 30 Page, 10X10 Wedding Photo Album, Private Online Photo Gallery, Unlimited Coverage Locations, Unlimited Photos & Video Captured.",
-        "img": "https://i.ibb.co/QHncFbp/service2.jpg"
+        "name": "The Complete 2022 Web Development Bootcamp",
+        "price": "5000 Taka",
+        "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
+        "img": "https://i.ibb.co/qrfyKWj/2.jpg"
     },
     {
         "id": 3,
-        "name": "Dimond Package",
-        "price": "1000",
-        "description": "8 Hours Photography/8 Hours Videography, 30 Page, 10X10 Wedding Photo Album, Private Online Photo Gallery, Unlimited Coverage Locations, Unlimited Photos & Video Captured.",
-        "img": "https://i.ibb.co/GcxSbZf/service3.jpg"
+        "name": "The Complete Digital Marketing Course - 12 Courses in 1",
+        "price": "4500 Taka",
+        "description": "Master Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email, Facebook Marketing, Analytics & More!",
+        "img": "https://i.ibb.co/XXT4ZqH/3.jpg"
     },
     {
         "id": 4,
-        "name": "Dimond Package",
-        "price": "1000",
-        "description": "8 Hours Photography/8 Hours Videography, 30 Page, 10X10 Wedding Photo Album, Private Online Photo Gallery, Unlimited Coverage Locations, Unlimited Photos & Video Captured.",
-        "img": "https://i.ibb.co/GcxSbZf/service3.jpg"
+        "name": "IELTS 7 Plus: Complete IELTS Preparation [Academic]",
+        "price": "7000 Taka",
+        "description": "IELTS Preparation for all sections of the academic IELTS test.",
+        "img": "https://i.ibb.co/bKM3mpC/4.jpg"
     }
 ]
