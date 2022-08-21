@@ -1,8 +1,12 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 
 const Course = ({ course }) => {
-    const { name, price, description, img } = course;
-
+    const { id, name, price, description, img } = course;
+    const navigate = useNavigate();
+    const navigatetoCourseDetails = id => {
+        navigate(`/course/${id}`);
+    }
     return (
         <div>
 
@@ -14,7 +18,7 @@ const Course = ({ course }) => {
                     <h2 className="card-title font-bold text-3xl text-lime-700">{name}</h2>
                     <p className='font-bold'>{description}</p>
                     <div className="card-actions">
-                        <h2 className='text-2xl font-bold my-5 text-lime-700'>Price: {price}</h2><button className="btn bg-primary text-red-700 mx-2 my-3">Buy Now</button>
+                        <h2 className='text-2xl font-bold my-5 text-lime-700'>Price: {price}</h2><button onClick={() => navigatetoCourseDetails(id)} className="btn bg-primary text-red-700 mx-2 my-3">Buy Now</button>
                     </div>
                 </div>
             </div>
